@@ -50,7 +50,7 @@ class Dashboard extends CI_Controller {
     ]);
 
     if (!$this->upload->do_upload('file')) {
-        $this->session->set_flashdata('info', "❌ Xatolik: " . $this->upload->display_errors());
+        $this->session->set_flashdata('info', "❌ Xatoli: " . $this->upload->display_errors());
     } else {
         $upload_data = $this->upload->data();
 
