@@ -1,0 +1,162 @@
+<?xml version="1.0"?>
+<?mso-application progid="Excel.Sheet"?>
+<Workbook xmlns="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:o="urn:schemas-microsoft-com:office:office"
+ xmlns:x="urn:schemas-microsoft-com:office:excel"
+ xmlns:ss="urn:schemas-microsoft-com:office:spreadsheet"
+ xmlns:html="http://www.w3.org/TR/REC-html40">
+ <DocumentProperties xmlns="urn:schemas-microsoft-com:office:office">
+  <Version>16.00</Version>
+ </DocumentProperties>
+ <OfficeDocumentSettings xmlns="urn:schemas-microsoft-com:office:office">
+  <AllowPNG/>
+ </OfficeDocumentSettings>
+ <ExcelWorkbook xmlns="urn:schemas-microsoft-com:office:excel">
+  <WindowHeight>11865</WindowHeight>
+  <WindowWidth>28800</WindowWidth>
+  <WindowTopX>32767</WindowTopX>
+  <WindowTopY>32767</WindowTopY>
+  <ProtectStructure>False</ProtectStructure>
+  <ProtectWindows>False</ProtectWindows>
+ </ExcelWorkbook>
+ <Styles>
+  <Style ss:ID="Default" ss:Name="Normal">
+   <Alignment ss:Vertical="Bottom"/>
+   <Borders/>
+   <Font ss:FontName="Arial"/>
+   <Interior/>
+   <NumberFormat/>
+   <Protection/>
+  </Style>
+  <Style ss:ID="s62">
+   <Font ss:FontName="Arial" x:Family="Swiss" ss:Color="#0000FF" ss:Bold="1"/>
+  </Style>
+ </Styles>
+ <Worksheet ss:Name="Sheet1">
+  <Table ss:ExpandedColumnCount="6" ss:ExpandedRowCount="14" x:FullColumns="1"
+   x:FullRows="1">
+   <Column ss:Width="76.5"/>
+   <Column ss:Width="60.75"/>
+   <Column ss:Width="100.5"/>
+   <Column ss:Width="228"/>
+   <Column ss:Width="271.5"/>
+   <Row>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Фамилия</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Имя</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Очестива</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Факултет</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Хатм кардашуда</Data></Cell>
+    <Cell ss:StyleID="s62"><Data ss:Type="String">Диплом</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Салойдинхонов</Data></Cell>
+    <Cell><Data ss:Type="String">Ҷалолиддин</Data></Cell>
+    <Cell><Data ss:Type="String">Ҷамолиддинхонович</Data></Cell>
+    <Cell><Data ss:Type="String">Санъат</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи санъати ба номи Содирхон Ҳофизи ш.Хуҷанд</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ҳусайнова </Data></Cell>
+    <Cell><Data ss:Type="String">Мутриба</Data></Cell>
+    <Cell><Data ss:Type="String">Мансуровна</Data></Cell>
+    <Cell><Data ss:Type="String">Таҳсилоти ибтидоӣ ва педагогикаи махсус</Data></Cell>
+    <Cell><Data ss:Type="String">Омӯзишгоҳи омӯзгории шаҳри Конибодом</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String"> Раҳимова </Data></Cell>
+    <Cell><Data ss:Type="String">Мижгона </Data></Cell>
+    <Cell><Data ss:Type="String">Толибҷоновна </Data></Cell>
+    <Cell><Data ss:Type="String">Санъат</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи санъати ба номи Содирхон Ҳофизи ш.Хуҷанд</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Елбоева </Data></Cell>
+    <Cell><Data ss:Type="String">Дилдора</Data></Cell>
+    <Cell><Data ss:Type="String">Қурбонбоевна</Data></Cell>
+    <Cell><Data ss:Type="String">Биология ва химия</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи тиббии шаҳри Хуҷанд</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ҷумабоева </Data></Cell>
+    <Cell><Data ss:Type="String">Дилбар</Data></Cell>
+    <Cell><Data ss:Type="String">Курбанбаевна</Data></Cell>
+    <Cell><Data ss:Type="String">Таҳсилоти ибтидоӣ ва педагогикаи махсус</Data></Cell>
+    <Cell><Data ss:Type="String">Омӯзишгоҳи омӯзгории ноҳияи Мастчоҳ</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Қодирова </Data></Cell>
+    <Cell><Data ss:Type="String">Наргиза</Data></Cell>
+    <Cell><Data ss:Type="String">Акбаралиевна</Data></Cell>
+    <Cell><Data ss:Type="String">Биология ва химия</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи тиббии шаҳри Хуҷанд</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ахмедова </Data></Cell>
+    <Cell><Data ss:Type="String">Дилрабохон</Data></Cell>
+    <Cell><Data ss:Type="String">Муқимовна</Data></Cell>
+    <Cell><Data ss:Type="String">Биология ва химия</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи тиббии ш. Гулистон</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Содиқова</Data></Cell>
+    <Cell><Data ss:Type="String">Ганҷина</Data></Cell>
+    <Cell><Data ss:Type="String">Ихтиёровна</Data></Cell>
+    <Cell><Data ss:Type="String">Биология ва химия</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи тиббии шаҳри Истаравшан</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Зокирова</Data></Cell>
+    <Cell><Data ss:Type="String">Манижа</Data></Cell>
+    <Cell><Data ss:Type="String">Илҳомҷоновна</Data></Cell>
+    <Cell><Data ss:Type="String">Биология ва химия</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи тиббии н.Б.Ғафуров</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Разоқов</Data></Cell>
+    <Cell><Data ss:Type="String">Бахтиёр</Data></Cell>
+    <Cell><Data ss:Type="String">Фаррухович</Data></Cell>
+    <Cell><Data ss:Type="String">Телекоммуникатсия ва технологияҳои иттилоотӣ</Data></Cell>
+    <Cell><Data ss:Type="String">коллеҷи технологии ба номи А. Қаҳҳорови ш. Конибодом</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Зоидова</Data></Cell>
+    <Cell><Data ss:Type="String">Нигина</Data></Cell>
+    <Cell><Data ss:Type="String">Олтуллоевна</Data></Cell>
+    <Cell><Data ss:Type="String">Таърих ва ҳуқуқ</Data></Cell>
+    <Cell><Data ss:Type="String">Колеҷи омӯзгории ДДХ</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Ҳоҷизода</Data></Cell>
+    <Cell><Data ss:Type="String">Меҳрангез</Data></Cell>
+    <Cell><Data ss:Type="String">Муҳаммадӣ</Data></Cell>
+    <Cell><Data ss:Type="String">Филологияи рус</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи омӯзгории ноҳияи Мастчоҳ</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+   <Row>
+    <Cell><Data ss:Type="String">Бобоҷонова</Data></Cell>
+    <Cell><Data ss:Type="String">Мадинахон</Data></Cell>
+    <Cell><Data ss:Type="String">Шӯҳратҷоновна</Data></Cell>
+    <Cell><Data ss:Type="String">Биология ва химия</Data></Cell>
+    <Cell><Data ss:Type="String">Коллеҷи тиббии шаҳри Хуҷанд</Data></Cell>
+    <Cell><Data ss:Type="String">Аъло</Data></Cell>
+   </Row>
+  </Table>
+  <WorksheetOptions xmlns="urn:schemas-microsoft-com:office:excel">
+   <Selected/>
+   <ProtectObjects>False</ProtectObjects>
+   <ProtectScenarios>False</ProtectScenarios>
+  </WorksheetOptions>
+ </Worksheet>
+</Workbook>
